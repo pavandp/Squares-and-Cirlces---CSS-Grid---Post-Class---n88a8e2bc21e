@@ -9,15 +9,11 @@
 
 .inner-square {
     margin: 10px;
-    height: 100%;
-    width: 100%;
     background-color: green;
 }
 
 .circle {
     margin: 10px;
-    height: 100%;
-    width: 100%;
     background-color: blue;
     border-radius: 50%;
 }
