@@ -3,17 +3,19 @@
     height: 600px;
     display: grid;
     grid-template-columns: repeat(3,1fr);
-    gap: 20px;
+    
     
 }
 
 .inner-square {
+    margin: 10px;
     height: 100%;
     width: 100%;
     background-color: green;
 }
 
 .circle {
+    margin: 10px;
     height: 100%;
     width: 100%;
     background-color: blue;
